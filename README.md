@@ -24,6 +24,8 @@ Similarly, *IAJ-2H-4.C* means :
 
 Which refers to the program "Swap 2 numbers without using a 3rd variable."
 
+*PATTERN* files are the pattern codes which were given in assignments.
+
 The files which are not marked as the above format are miscellaneous and not part of the course and only for extra learning purposes.
 
 
