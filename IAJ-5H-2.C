@@ -13,16 +13,20 @@ void main(){
 
 	printf("Enter number of terms of Fibonacci Series:\n");
 	scanf("%ld", &n);
-	printf("\n\nFirst %ld terms of Fibonacci Series are:\n0", n);
+	printf("\n\nFirst %ld terms of Fibonacci Series are:\n", n);
+	if(n<0)
+		printf("\n\nEnter positive integers...");
+	else{
+		if(n!=0){
 
-	for(i=0;i<n-1;i++){
+		for(i=0;i<n-1;i++){
 
-		printf("\n%ld", next);
-		next=a+b;
-		a=b;
-		b=next;
+			printf("\n%ld", next);
+			next=a+b;
+			a=b;
+			b=next;
+		}
 	}
-
 
 	getch();
 }

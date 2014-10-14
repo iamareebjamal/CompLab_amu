@@ -21,8 +21,6 @@ int main(){
 			printf("Calculation using 'for loop':\n\nEnter number of subjects:\n");
 			scanf("%d", &n);
 
-			max = 100*n;
-
 			for(i=1; i<=n; i++){
 				printf("\n\nEnter marks of Subject %d:\n", i);
 
