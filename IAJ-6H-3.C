@@ -19,8 +19,8 @@ void main(){
 	for(i=0; i<15; i++){
 		count=0;
 		for(j=i+1; j<15; j++){
-		      if(array[i]==array[j] && array[j]!='\o'){
-				count++;
+		      if(array[i]==array[j] && array[j]!='\o'){ //This is not 'slash zero', the '\0' is string terminator
+				count++;                                //This is just a random number we replace already counted number with. \o (slash O as in Owl) = 2896(Any random number)
 				array[j]='\o';
 		      }
 		}
