@@ -8,7 +8,7 @@
 #include <conio.h>
 
 //Ye Mera India
-//For best reults, don'tuse Turbo C(Adam used that compiler, you are in 2014)
+//For best results, don't use Turbo C(Adam used that compiler, you are in 2014)
 //Use Eclipse, CodeBlocks, CodeLite or any other recent C compiler
 
 void main(){
