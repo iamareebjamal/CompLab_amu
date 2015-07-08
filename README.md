@@ -1,7 +1,7 @@
 C Project Files
 ===========
 
-A C Programming Language(CPL) Class project files repo for CO-191 students in AMU and complete beginners in C language
+A C Programming Language(CPL) Class project files repo for CO-191 students in AMU (Batch 2014-15) and complete beginners in C language
 
 This is a repository that contains all the projects that were asked to be made by teachers in CO-191 Practical Lab, either as Home Work or Class Work
 
