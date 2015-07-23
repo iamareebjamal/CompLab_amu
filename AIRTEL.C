@@ -16,16 +16,16 @@
                      //to Windows Operating System.
 
 //Normal Play with stopping previous sound
-void play(int tone, int delay){
+void play(int tone, int del){
     sound(tone);
-    delay(delay);
+    delay(del);
     nosound();
 }
 
 //Continous play without stopping previous sound
-void cplay(int tone, int delay){
+void cplay(int tone, int del){
     sound(tone);
-    delay(delay);
+    delay(del);
 }
 
 int main(){
